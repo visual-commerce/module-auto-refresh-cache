@@ -1,5 +1,5 @@
 {
-    "name": "visual-commerce/auto-refresh-cache",
+    "name": "visual-commerce/module-auto-refresh-cache",
     "description": "Visual Software Auto Refresh Cache",
     "type": "magento2-module",
     "license": "Proprietary",
